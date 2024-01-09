@@ -1,0 +1,211 @@
+#bannerNavBtn{
+    background-color: #ed017f;
+}
+
+#bannerNavBtn:hover{
+    background-color: #fc45a7;
+    transition: .7s;
+}
+
+#bannerNavBtn2{
+    color: #ed017f;
+    border-color: #ed017f;
+}
+
+#bannerNavBtn2:hover{
+   background-color: rgb(248, 218, 235);
+   transition: 0.7s;
+}
+
+#bannerTxtDiv{
+    padding-top: 100px;
+    width: 40%;
+}
+
+#bannerIconDiv{
+    padding-top: 220px;
+}
+
+ p{
+    font-size: 14px;
+    color: #999898;
+    font-weight: 500;
+}
+
+#cardSectionColorFulText{
+    color: #ed017f;
+}
+
+#emailSection{
+background-color:#f8dbed
+
+}
+
+#emailForm{
+    padding-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+
+body{
+    text-align: center;
+}
+
+#bannerSectionPositionImg{
+    top: 90px;
+    
+}
+
+#bannerTxtDiv{
+    padding-top: 450px;
+    width: 100%;
+}
+
+#bannerIconDiv{
+    padding-top: 20px;
+}
+
+nav{
+    background-color: #fff;
+}
+
+#emailForm{
+    padding-right:30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
